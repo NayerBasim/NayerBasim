@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Nayer
 
-I’m a **Computer Science & Engineering student** at the **German University in Cairo (GUC)** who enjoys building things that *actually get used* — from internal banking systems to Chrome extensions with thousands of users.
+I’m a **Computer Science & Engineering student** at the **German University in Cairo (GUC)** who enjoys building things that *actually get used* — from internal web systems to Chrome extensions with thousands of users.
 
 - 🎓 Merit Scholar @ GUC  
 - 🤖 Machine Learning • Full-Stack • Security-aware systems  
