@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Nayer
 
-I’m a **Computer Science & Engineering student** at the **German University in Cairo (GUC)** who enjoys building things that *actually get used* — from internal web systems to Chrome extensions with thousands of users.
+I’m a **Computer Science & Engineering student** at the **German University in Cairo (GUC)** who enjoys building things that *actually get used*, from internal web systems to Chrome extensions with hundreds of users.
 
 - 🎓 Merit Scholar @ GUC  
 - 🤖 Machine Learning • Full-Stack • Security-aware systems  
@@ -56,7 +56,7 @@ Used by **1000+ students**
 ---
 
 ## 🏆 Highlights
-- 🥉 **3rd Place — HERE Geospatial AI Hackathon (2025)**  
+- 🥉 **3rd Place at HERE Geospatial AI Hackathon (2025)**  
 - 🎖️ **DAAD Extra Exceptional Scholarship**  
 - 🎓 GPA: **A+ (German Scale) | 4.0 / 4.0**
 
@@ -83,10 +83,10 @@ Used by **1000+ students**
 ---
 
 ## 🌍 Languages
-- Arabic — Native  
-- English — C1 (IELTS 8.0)  
-- French — B2  
-- German — A2
+- Arabic: Native  
+- English: C1 (IELTS 8.0)  
+- French: B2  
+- German: A2
 
 ---
 
