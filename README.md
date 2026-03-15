@@ -7,7 +7,7 @@ I’m a **Computer Science & Engineering student** at the **German University in
 -  Hackathon winner | IEEE ML Lead  
 -  Cairo, Egypt  
 
- [LinkedIn](https://www.linkedin.com/in/nayer-salama)  
+ **LinkedIn:** [www.linkedin.com/in/nayer-salama](https://www.linkedin.com/in/nayer-salama)  
  **Email:** nayer.basim@gmail.com  
 
 ---
